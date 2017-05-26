@@ -1,4 +1,4 @@
-package rtr.destructor.library.concurrent;
+package destructor.concurrent;
 
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
